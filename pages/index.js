@@ -1,1 +1,6 @@
-export default function Home(){return (<div>RedditInsight UI coming...</div>)};
+
+export default function Home(){
+  return (<div style={{color:'white',background:'#0d1117',height:'100vh'}}>
+    <h1>RedditInsight UI Coming...</h1>
+  </div>);
+}
